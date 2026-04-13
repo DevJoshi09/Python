@@ -1,4 +1,4 @@
-# randome numbers library
+# random numbers library
 
 import random
 
