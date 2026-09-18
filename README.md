@@ -2,8 +2,6 @@
 
 A comprehensive collection of **Python programming resources, notes, examples, practice problems, and concepts** — organized to help beginners build strong Python fundamentals and progress toward advanced programming.
 
-> 🚫 **Web development is not included in this repository.**
-
 ---
 
 ## 📚 What's Inside
